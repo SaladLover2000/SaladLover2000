@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++, JavaScript, and Python 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on JavaScript
-- 📫 You can reach me at Julianamuniz3570@gmail.com
+- 📫 You can reach me at yjmunizdiaz@wpi.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am also a Robotics Engineering Student 
 
